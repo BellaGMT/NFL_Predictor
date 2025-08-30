@@ -1,0 +1,6 @@
+streamlit
+nfl_data_py
+pandas
+numpy
+scikit-learn
+openai

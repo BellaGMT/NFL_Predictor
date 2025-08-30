@@ -1,0 +1,4 @@
+date,home_team,away_team,home_elo,away_elo,home_points_pg,away_points_pg,home_points_allowed_pg,away_points_allowed_pg,home_rest_days,away_rest_days,home_injured_starters,away_injured_starters,home_qb_name,away_qb_name
+2025-09-07,KC,CIN,1630,1590,29.0,22.8,19.0,21.5,6,5,0,2,Patrick Mahomes,Joe Burrow
+2025-09-07,BUF,NYJ,1605,1520,26.5,18.0,20.0,19.5,7,6,0,1,Josh Allen,Aaron Rodgers
+2025-09-07,PHI,DAL,1610,1600,29.5,27.0,21.0,22.0,6,5,1,1,Jalen Hurts,Dak Prescott

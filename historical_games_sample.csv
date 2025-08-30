@@ -1,0 +1,9 @@
+date,home_team,away_team,home_score,away_score,home_elo,away_elo,home_points_pg,away_points_pg,home_points_allowed_pg,away_points_allowed_pg,home_rest_days,away_rest_days,home_injured_starters,away_injured_starters,home_qb_passing_yds,away_qb_passing_yds
+2024-11-10,KC,CIN,27,20,1610,1580,28.5,23.1,19.2,21.0,6,5,1,2,265,240
+2024-11-17,BUF,NYJ,24,13,1590,1510,26.1,17.2,20.4,19.1,7,6,0,3,290,210
+2024-11-24,PHI,DAL,31,28,1605,1595,29.3,27.5,21.2,22.4,5,5,1,1,275,305
+2024-12-01,SF,SEA,30,17,1620,1520,27.7,20.1,18.7,21.9,6,4,0,1,305,230
+2024-12-08,BAL,PIT,20,23,1600,1560,25.3,21.0,18.0,20.0,5,5,2,1,240,235
+2024-12-15,MIA,NE,27,16,1580,1500,27.9,18.4,22.3,20.7,6,6,0,2,315,220
+2024-12-22,DET,GB,24,21,1570,1550,26.7,24.3,23.0,22.1,7,5,1,0,275,265
+2024-12-29,LAR,ARI,23,14,1540,1490,22.8,19.0,21.5,23.9,6,6,1,2,285,215
